@@ -1,0 +1,30 @@
+#content{
+    color:brown;
+    border:solid 10px purple;
+    background-color:pink;
+	width:80%;
+	height:20em;
+	margin:10px;
+    padding:10px;
+    
+}
+/*
+#svg_rect{
+    color:violet;
+    border:solid 10px red;
+    background-color:pink;
+	width:80%;
+	height:20em;
+	margin:10px;
+    padding:10px;
+    
+}
+*/
+h1{
+    color:orange;
+    font-family:fantasy;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
